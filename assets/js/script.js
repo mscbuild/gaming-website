@@ -46,3 +46,23 @@ window.addEventListener("scroll", function () {
   }
 
 })
+
+// JavaScript for Success Message
+document.getElementById('newsletterForm').addEventListener('submit', function (event) {
+  event.preventDefault(); 
+
+
+  setTimeout(() => {
+   
+    document.getElementById('newsletterForm').reset();
+
+  
+    const successMessage = document.getElementById('successMessage');
+    successMessage.style.display = 'block';
+
+   
+    setTimeout(() => {
+      successMessage.style.display = 'none';
+    }, 5000);
+  }, 500); 
+});

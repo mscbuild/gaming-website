@@ -659,25 +659,22 @@
 
         <section class="newsletter">
           <div class="container">
-
             <div class="newsletter-card">
-
               <div class="newsletter-content">
                 <figure class="newsletter-img">
                   <img src="./assets/images/newsletter-img.png" alt="Newsletter image">
                 </figure>
-
                 <h2 class="h2 newsletter-title">Subscribe to our newsletter</h2>
               </div>
-
-              <form action="" class="newsletter-form">
+              <form action="" class="newsletter-form" id="newsletterForm">
                 <input type="email" name="email" required placeholder="Your Email Address" class="input-field">
-
                 <button type="submit" class="btn btn-secondary">Subscribe</button>
               </form>
-
+              <!-- Success Message -->
+              <p class="success-message" id="successMessage" style="color: green; margin-top: 10px; display: none;">
+                Thank you for subscribing! You'll receive our latest updates soon.
+              </p>
             </div>
-
           </div>
         </section>
 
