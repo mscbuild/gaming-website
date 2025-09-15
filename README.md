@@ -10,6 +10,7 @@
 ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
 
  GameX is a fully responsive eSports gaming website. Responsive for all devices, built using HTML, CSS, and JavaScript. GAMEX is a colorful and pixel-perfect template. You can use it in live Game Streaming, e-Sports, Gaming News, Gaming tools sales, and set up live Game Battles.
+ <br>
 <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
  
   
