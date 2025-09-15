@@ -1,9 +1,5 @@
 <h2 align="center">GameX - Gaming website</h2>
 
-  GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
-<div align="center">
-  
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/gaming-website) 
  ![](https://img.shields.io/github/repo-size/mscbuild/gaming-website)
@@ -12,18 +8,12 @@
 ![](https://img.shields.io/github/stars/mscbuild)
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
-  <br />
-  <br />
-  
-   
 
+  GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
  
-
-</div>
-
-<br />
-
-### Demo Screeshots
+  
+ ### Demo Screeshots
 
 ![GameX Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
