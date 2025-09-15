@@ -30,18 +30,14 @@ To run **GameX** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/gamex.git
+sudo git clone https://github.com/mscbuild/gaming-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/gamex.git
+git clone https://github.com/mscbuild/gaming-website.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
